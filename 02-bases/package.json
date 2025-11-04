@@ -1,0 +1,25 @@
+{
+  "name": "02-bases",
+  "version": "0.0.1",
+  "description": "Test",
+  "license": "ISC",
+  "author": "Juan",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "start:dev": "echo 'Hola Mundo, desde dev'",
+    "start:stag": "echo 'Hola Mundo, desde stag'"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "axios": "^1.13.1",
+    "get-age": "^1.0.1",
+    "uuid": "^13.0.0",
+    "winston": "^3.18.3"
+  }
+}

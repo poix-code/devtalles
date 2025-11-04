@@ -1,0 +1,16 @@
+{"level":"info","message":"Iniciando aplicación...","service":"user-service"}
+{"level":"info","message":"Iniciando aplicación..."}
+{"level":"info","message":"Iniciando aplicación...","service":"app.js"}
+{"level":"info","message":"Iniciando aplicación...","service":"user-service"}
+{"level":"info","message":"Iniciando aplicación...","service":"user-service"}
+{"level":"info","message":"Iniciando aplicación...","service":"user-service"}
+{"level":"info","message":"Iniciando aplicación...","service":"app.js"}
+{"level":"info","message":"Iniciando aplicación...","service":"app.js"}
+{"level":"info","message":"Iniciando aplicación...","service":"app.js"}
+{"level":"info","message":"Iniciando aplicación...","service":"app.js"}
+{"level":"info","message":"Iniciando aplicación...","service":"app.js"}
+{"level":"error","message":"Ocurrió un error inesperado","service":"app.js"}
+{"level":"info","message":"Iniciando aplicación...","service":"app.js"}
+{"level":"error","message":"Ocurrió un error inesperado","service":"app.js"}
+{"level":"info","message":"Iniciando aplicación...","service":"app.js"}
+{"level":"error","message":"Ocurrió un error inesperado","service":"app.js"}
