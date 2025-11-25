@@ -1,8 +1,12 @@
 import { httpClient } from "../plugins";
 
 export const getPokemonById = async (id: string|number): Promise<string> => {
-    const url = `https://pokeapi.co/api/v2/pokemon/${ id }`;
+    try {
+        const url = `https://pokeapi.co/api/v2/pokemon/${ id }`;
 
-    const response = await httpClient.get(url);
-    return response.name;
+        const response = await httpClient.get(url);
+        return response.name;
+    } catch (error) {
+        throw (`Pokemon with id ${id} not found`);
+    }
 }

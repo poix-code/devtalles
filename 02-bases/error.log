@@ -1,3 +1,97 @@
 {"level":"error","message":"Ocurrió un error inesperado","service":"app.js"}
 {"level":"error","message":"Ocurrió un error inesperado","service":"app.js"}
 {"level":"error","message":"Ocurrió un error inesperado","service":"app.js"}
+{"level":"error","message":"error Ocurrió un error inesperado","service":"app.js"}
+{"level":"error","message":"error Ocurrió un error inesperado","service":"app.js"}
+{"at":"2025-11-04T19:00:05.150Z","level":"error","message":"error Ocurrió un error inesperado","service":"app.js"}
+{"at":"2025-11-04T19:02:39.904Z","level":"error","message":"error Ocurrió un error inesperado","service":"app.js"}
+{"at":"2025-11-04T19:03:03.563Z","level":"error","message":"error Ocurrió un error inesperado","service":"app.js"}
+{"at":"2025-11-04T19:03:18.414Z","level":"error","message":"error Ocurrió un error inesperado","service":"app.js"}
+{"at":"2025-11-04T19:08:30.723Z","level":"error","message":"error Ocurrió un error inesperado","service":"app.js","timestamp":"2025-11-04T19:08:30.724Z"}
+{"level":"error","message":"error Ocurrió un error inesperado","service":"app.js","timestamp":"2025-11-04T19:11:42.172Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:29:28.586Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:35:21.612Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:36:31.604Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:36:56.039Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:39:04.674Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:39:29.839Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:40:05.225Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:42:21.877Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:43:44.820Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:44:34.372Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:45:47.360Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:49:17.313Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:50:14.732Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:50:28.149Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:53:10.354Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:53:55.128Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:55:11.438Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:55:18.911Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T21:56:26.812Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:02:34.413Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:03:41.324Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:03:50.530Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:04:32.459Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:06:12.949Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:07:16.184Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:10:06.205Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:10:14.684Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:11:18.918Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:11:27.336Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:19:32.627Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:19:59.457Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:20:35.855Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:21:18.326Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:25:32.665Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:33:36.350Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:35:40.871Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:36:19.897Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:37:14.305Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:37:57.943Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:38:11.583Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:38:26.984Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:39:23.446Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:43:43.117Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:45:02.380Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:46:58.963Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:48:14.753Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:49:54.083Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:50:34.715Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:55:22.044Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:55:58.295Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:57:29.377Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:57:44.688Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-06T22:59:09.814Z"}
+{"level":"error","message":"error Ocurrió un error inesperado en TypeScript","service":"app.ts","timestamp":"2025-11-07T15:22:52.416Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:16:20.184Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:16:45.865Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:19:06.271Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:23:23.853Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:23:52.357Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:24:08.419Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:25:08.869Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:30:33.415Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:31:16.149Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:31:49.606Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:36:04.944Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-14T22:43:19.758Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T20:48:35.611Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T20:49:13.211Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T20:53:12.669Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T20:53:27.594Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:15:19.047Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:16:23.525Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:19:09.324Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:19:42.794Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:24:18.067Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:24:30.261Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:30:26.702Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:30:55.750Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:36:27.320Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:37:02.045Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:38:03.060Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:38:35.552Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:39:40.775Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:40:12.372Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:47:55.382Z"}
+{"level":"error","message":"error Test error message","service":"test-service","timestamp":"2025-11-18T21:48:07.508Z"}

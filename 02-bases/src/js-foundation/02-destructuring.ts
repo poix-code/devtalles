@@ -4,7 +4,7 @@ const { FIG_TERM, COLORTERM, SHELL } = process.env;
 
 //console.table( { FIG_TERM, COLORTERM, SHELL } );
 
-const characters = [ 'Goku', 'Vegeta', 'Trunks' ];
+export const characters = [ 'Goku', 'Vegeta', 'Trunks' ];
 
 const [ , , trunks ] = characters;
 
