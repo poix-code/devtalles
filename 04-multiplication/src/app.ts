@@ -1,4 +1,3 @@
-
 import { yarg } from "./plugins/yargs.plugin";
 import { ServerApp } from "./presentation/server-app";
 
