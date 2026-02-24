@@ -1,15 +1,19 @@
-import { LogSeverityLevel } from "../domain/entities/log.entity";
-import { CheckService } from "../domain/use-cases/checks/check-service";
-import { SendEmailLogs } from "../domain/use-cases/email/send-email-logs";
+import { CheckServiceMultiple } from "../domain/use-cases/checks/check-service-multiple";
 import { FileSystemDataSource } from "../infraestructure/datasources/file-system.datasource";
 import { MongoLogDataSource } from "../infraestructure/datasources/mongo-log.datasource";
+import { PostgresLogDataSource } from "../infraestructure/datasources/postgre-log.datasource";
 import { LogRepositoryImpl } from "../infraestructure/repositories/log.repository.impl";
 import { CronService } from "./cron/cron-service";
 import { EmailService } from "./email/email.service";
 
-const logRepository = new LogRepositoryImpl(
-    //new FileSystemDataSource()
+const fsLogRepository = new LogRepositoryImpl(
+    new FileSystemDataSource()
+);
+const mongoLogRepository = new LogRepositoryImpl(
     new MongoLogDataSource()
+);
+const postgresLogRepository = new LogRepositoryImpl(
+    new PostgresLogDataSource()
 );
 const emailService = new EmailService();
 
@@ -29,20 +33,20 @@ export class Server {
         // );
 
 
-        const logs = await logRepository.getLogs(LogSeverityLevel.medium);
-        console.log(logs);
+        // const logs = await logRepository.getLogs(LogSeverityLevel.medium);
+        // console.log(logs);
 
-        // CronService.createJob(
-        //     '*/5 * * * * *',
-        //     () => {
-        //         const url = 'https://google.com';
-        //         new CheckService(
-        //             logRepository,
-        //             () => console.log(`${url} is ok`),
-        //             (error) => console.log(error)
-        //         ).execute(url);
-        //         //new CheckService().execute('http://localhost:3000');
-        //     }
-        // );
+        CronService.createJob(
+            '*/5 * * * * *',
+            () => {
+                const url = 'https://google.com';
+                new CheckServiceMultiple(
+                    [fsLogRepository, mongoLogRepository, postgresLogRepository],
+                    () => console.log(`${url} is ok`),
+                    (error) => console.log(error)
+                ).execute(url);
+                //new CheckService().execute('http://localhost:3000');
+            }
+        );
     }
 }

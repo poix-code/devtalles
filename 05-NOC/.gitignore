@@ -6,7 +6,11 @@ dist/
 logs/
 
 .env
+.env.test
 mongo/ 
 postgres/
+coverage/
 
 /src/generated/prisma
+mongo-test/
+postgres-test/
